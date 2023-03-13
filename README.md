@@ -14,5 +14,5 @@ cv2
 PIL  
 undetected_chromedriver   version == 3.4.6  
 selenium
-Requires Google Chrome    version == 111(Generally the latest is fine)
+Requires Google Chrome    version == 111(Generally the latest is fine)  
 需要谷歌浏览器   版本为111(一般最新就可以)
