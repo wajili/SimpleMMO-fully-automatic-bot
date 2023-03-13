@@ -4,11 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 from selenium.common.exceptions import NoSuchElementException
-import requests
-from requests.structures import CaseInsensitiveDict
-import matplotlib.pyplot as plt
 from torch.autograd import Variable
-from PIL import Image
 import os
 import utils
 import torchvision.transforms as transforms
