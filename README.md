@@ -21,6 +21,6 @@ torchvision(version == 0.8.2)
 cv2(version == 4.5.5)    
 PIL  
 undetected_chromedriver(version == 3.4.6)  
-selenium(version == 4.8.2)
-If you don't know how to install the above, you can learn to install an anaconda first
+selenium(version == 4.8.2)  
+If you don't know how to install the above, you can learn to install an anaconda first.  
 如果你不会安装以上这些那么可以先学着安装一个anaconda
