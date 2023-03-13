@@ -5,7 +5,7 @@ The probability of passing the man-machine verification once is >=97%.
 The captcha has three chances, so failing the code twice would result in a suspension, but the odds are less than 0.09%.  
 Download model.pt to the output folder(https://drive.google.com/drive/folders/1hbIGz1fFNxTft7PGyrVd4glZbtTT3UIj?usp=share_link)  
 Change the path if needed.  
-After the code environment is configured, run simmmobot.py and enter the account password to start.
+After the code environment is configured, run simmmobot.py and enter the account password to start.  
 Requires Google Chrome,    version == 111(Generally the latest is fine)  
 可以完全自动的走路，采矿，战斗，并且通过人机验证。  
 单次通过人机验证的几率>=97%。  
