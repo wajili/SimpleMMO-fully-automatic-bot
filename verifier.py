@@ -6,7 +6,6 @@ from model.resnet import resnet34
 import torchvision.transforms as transforms
 import os
 import time
-import matplotlib.pyplot as plt
 from torch.autograd import Variable
 from PIL import Image
 
