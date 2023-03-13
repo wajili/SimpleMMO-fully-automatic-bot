@@ -4,5 +4,5 @@ Download model.pt to the output folder(https://drive.google.com/drive/folders/1h
 通过上面网站下载model.pt到output文件夹  
 环境environment:  
 python  
-undetected_chromedriver
+undetected_chromedriver  
 selenium
