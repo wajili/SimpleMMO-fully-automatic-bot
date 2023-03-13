@@ -8,8 +8,8 @@ Change the path if needed.
 After the code environment is configured, run simmmobot.py and enter the account password to start.
 Requires Google Chrome,    version == 111(Generally the latest is fine)  
 可以完全自动的走路，采矿，战斗，并且通过人机验证。  
-单次通过人机验证的几率>=97%。
-人机验证有三次机会，所以两次不通过代码就会暂停，但是这个几率低于0.09%。
+单次通过人机验证的几率>=97%。  
+人机验证有三次机会，所以两次不通过代码就会暂停，但是这个几率低于0.09%。  
 通过上面网站下载model.pt到output文件夹  
 如果需要，更改路径  
 代码环境配置好后运行simmmobot.py后输入账号密码开始  
