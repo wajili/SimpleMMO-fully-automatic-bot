@@ -3,7 +3,6 @@ import torch
 from PIL import Image
 import cv2 as cv
 import os
-import matplotlib.pyplot as plt
 
 
 
