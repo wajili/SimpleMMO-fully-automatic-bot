@@ -7,5 +7,6 @@ python
 pytorch  
 torchvision  
 cv2  
+PIL  
 undetected_chromedriver  
 selenium
