@@ -3,16 +3,18 @@ A simplemmo robot
 Download model.pt to the output folder(https://drive.google.com/drive/folders/1hbIGz1fFNxTft7PGyrVd4glZbtTT3UIj?usp=share_link)  
 Change the path if needed  
 After the code environment is configured, run simmmobot.py and enter the account password to start
+Requires Google Chrome,    version == 111(Generally the latest is fine)  
 通过上面网站下载model.pt到output文件夹  
 如果需要，更改路径  
-代码环境配置好后运行simmmobot.py后输入账号密码开始
+代码环境配置好后运行simmmobot.py后输入账号密码开始  
+需要谷歌浏览器,    版本为111(一般最新就可以)  
 环境environment:  
 python  
-pytorch  
-torchvision  
-cv2  
+pytorch(version == 1.9.1+cu102)  
+torchvision(version == 0.8.2)    
+cv2(version == 4.5.5)    
 PIL  
-undetected_chromedriver,    version == 3.4.6  
-selenium
-Requires Google Chrome,    version == 111(Generally the latest is fine)  
-需要谷歌浏览器,    版本为111(一般最新就可以)
+undetected_chromedriver(version == 3.4.6)  
+selenium(version == 4.8.2)
+If you don't know how to install the above, you can learn to install an anaconda first
+如果你不会安装以上这些那么可以先学着安装一个anaconda
