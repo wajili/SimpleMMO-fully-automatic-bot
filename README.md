@@ -16,10 +16,9 @@ Requires Google Chrome,    version == 111(Generally the latest is fine)
 需要谷歌浏览器,    版本为111(一般最新就可以)  
 环境environment:  
 python  
-pytorch(version == 1.9.1+cu102)  
-torchvision(version == 0.8.2)    
-cv2(version == 4.5.5)    
-PIL  
+pytorch
+torchvision   
+cv2
 undetected_chromedriver(version == 3.4.6)  
 selenium(version == 4.8.2)  
 If you don't know how to install the above, you can learn to install an anaconda first.  
